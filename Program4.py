@@ -1,3 +1,6 @@
+# Write a Python program to print a long text, 
+# convert the string to a list and print all the words and their frequencies
+
 import re
 def word_frequency():
     count=dict()
